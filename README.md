@@ -2,7 +2,7 @@
 
 ## Sobre o projeto:
 
-Projetinho simples com a função de calcular seu IMC. Para fazer este cálculo é necessário usar a simples fórmula: peso / altura * altura. 
+Projetinho simples com a função de calcular seu IMC. Para fazer este cálculo é necessário usar a simples fórmula: peso / (altura * altura). 
 
 ## Tecnologias usadas:
 - Javascript
